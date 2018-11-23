@@ -10,5 +10,8 @@ package br.com.habbibs;
  * @author LAB_ETECIA
  */
 public class ClassePrincipal {
+    public static void main(String[]args){
+
+}
     
 }
